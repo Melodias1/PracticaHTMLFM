@@ -1,0 +1,34 @@
+.borders{
+    border: 5px bold black;
+}
+h1,h2{
+    text-align: center;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+li{
+    list-style-position: inside;
+    text-align: center;
+    
+    
+}
+p{
+    text-align: center;
+}
+ul{
+    border: 5px bold black  ;
+}
+.interiorExterno{
+    border: 5px solid black;
+    margin-right: 30px;
+    border-radius: 15px 50px;
+  }
+  .listyle{
+    border: 5px solid black;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    padding: 10px 0 10px 0;
+    border-radius: 25px;
+  }
